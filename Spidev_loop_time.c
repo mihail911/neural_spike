@@ -27,6 +27,7 @@
 #define ARRAY_SIZE(a) (sizeof(a) / sizeof((a)[0]))
 #define LED_PIN RPI_GPIO_P1_11
 #define NEURON_SIGNAL RPI_GPIO_P1_13
+#define TEST 5
 
 static void pabort(const char *s)
 {
