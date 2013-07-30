@@ -8,7 +8,6 @@
  * peak detection algorithm that searches for peaks within the data
  * and turns on an LED when certain patterns are found.
  */
-//test
 #include <bcm2835.h>
 #include <time.h>
 #include <sys/time.h>
